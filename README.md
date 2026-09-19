@@ -19,3 +19,7 @@ Currently building **AI Incident Investigator** — an AI-powered system for ana
 ### Tech
 
 `Java` · `Python` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Docker` · `AWS`
+
+### Contact
+
+📫 Email: av.vasyaev.ai.dev@gmail.com  
