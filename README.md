@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**woody-ai-dev/woody-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alexander**, an Applied AI & Backend Engineer.
 
-Here are some ideas to get you started:
+I build backend systems and AI-powered tools designed to work reliably in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in **Java and distributed systems**, and I'm currently focused on **Python, LLMs, AI agents, RAG, and AWS**.
+
+Currently building **AI Incident Investigator** — an AI-powered system for analyzing production incidents using logs, metrics, traces, and LLM tools.
+
+### What I'm into
+
+🤖 LLM Systems & AI Agents  
+🧠 RAG & Context Engineering  
+⚙️ Distributed Systems  
+☁️ AWS & Cloud Architecture  
+📊 Observability & Reliability  
+
+### Tech
+
+`Java` · `Python` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Docker` · `AWS`
