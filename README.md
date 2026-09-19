@@ -23,3 +23,4 @@ Currently building **AI Incident Investigator** — an AI-powered system for ana
 ### Contact
 
 📫 Email: av.vasyaev.ai.dev@gmail.com  
+💬 Telegram: @woody_side
