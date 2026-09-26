@@ -20,6 +20,11 @@ Currently building **AI Incident Investigator** — an AI-powered system for ana
 
 `Java` · `Python` · `Spring Boot` · `Kafka` · `PostgreSQL` · `Docker` · `AWS`
 
+### Algorithms & Problem Solving
+
+🧩 I also enjoy algorithms, data structures, and solving coding challenges.\
+🏆 Find me on [LeetCode](https://leetcode.com/u/WoodySide/).
+
 ### Contact
 
 📫 Email: av.vasyaev.ai.dev@gmail.com  
